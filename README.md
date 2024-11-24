@@ -3,7 +3,7 @@
 ![Github All Releases](https://img.shields.io/github/downloads/FearlessNite345/FS25_ultraTimeWarp/total.svg?style=for-the-badge)
 ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/fearlessnite345/FS25_ultraTimeWarp/latest/total?style=for-the-badge)
 
-Have you ever wanted an insanely fast time warp, faster than normally allowed? Now you can with Ultra Time Warp! You can experience time warps up to x19200. 
+Have you ever wanted an insanely fast time warp, faster than normally allowed? Now you can with Ultra Time Warp! You can experience time warps up to x50000. 
 
 ## **Official Mod Hub**
 Currently this mod is pending for the official ModHub
